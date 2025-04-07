@@ -1,28 +1,34 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # AngularAulas
+=======
+# 📚 Estudo em Angular
+>>>>>>> 3373e0db5b1bc2340b748e79c96ee4ceeb0e35fd
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.6.
+Este repositório contém meus estudos e práticas com o framework **Angular**, focando no desenvolvimento de aplicações web modernas utilizando Angular 18+ e TypeScript.
 
-## Development server
+## 🚀 Tecnologias utilizadas
 
-To start a local development server, run:
+- [Angular](https://angular.io/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [RxJS](https://rxjs.dev/)
+- [Bootstrap](https://getbootstrap.com/) (opcional)
+- [Angular CLI](https://angular.io/cli)
 
-```bash
-ng serve
-```
+✍️ O que estou aprendendo
+Criação de componentes, módulos e serviços
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+Uso de diretivas, pipes e rotas
 
-## Code scaffolding
+Comunicação entre componentes
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+Integração com APIs
 
-```bash
-ng generate component component-name
-```
+Boas práticas com Angular
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+Reactive Forms e Template-driven Forms
 
+<<<<<<< HEAD
 ```bash
 ng generate --help
 ```
@@ -88,3 +94,8 @@ Observables com RxJS
 📌 Observações
 Este repositório é apenas para fins de aprendizado e experimentação. Sinta-se à vontade para clonar, modificar e sugerir melhorias!
 >>>>>>> 8edd286649dd56b629fa0d4fc5317919f1445539
+=======
+Observables com RxJS
+📌 Observações
+Este repositório é apenas para fins de aprendizado e experimentação. Sinta-se à vontade para clonar, modificar e sugerir melhorias!
+>>>>>>> 3373e0db5b1bc2340b748e79c96ee4ceeb0e35fd
