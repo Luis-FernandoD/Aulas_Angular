@@ -7,5 +7,23 @@ import { Component } from '@angular/core';
   styleUrl: './card.component.scss'
 })
 export class CardComponent {
+inputType = "text";
+isDisabled = true;
 
+
+enableInput(){
+  this.isDisabled = false;
+}
+
+disableInput(){
+  this.isDisabled = true;
+}
+
+setPasswordTypeInput(){
+  this.inputType = "password";
+}
+
+setTextTypeInput(){
+  this.inputType = "text";
+}
 }
