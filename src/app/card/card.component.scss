@@ -25,5 +25,10 @@
         margin-top: 10px;
         border-radius: 25px;
         background-color: white;
+        cursor: pointer;
+    }&__button:hover{
+        background-color: #5af83a;
+        color: white;
+        font-weight: bold;
     }
 }
