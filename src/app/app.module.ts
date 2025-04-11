@@ -8,8 +8,7 @@ import { CardButtonComponent } from './card-button/card-button.component';
 
 @NgModule({
   declarations: [
-    AppComponent,
-    CardButtonComponent,    
+    AppComponent,       
   ],
   imports: [
     BrowserModule,
