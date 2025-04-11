@@ -10,4 +10,8 @@ export class AppComponent {
   title = 'angular-aulas';
   cardPlanType = 'Simples';
   cardPlanPrice = 100;
+
+  handlePlanType(text: string) {
+    this.cardPlanType = text;
+  }
 }

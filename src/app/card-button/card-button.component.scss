@@ -8,3 +8,8 @@
     font-weight: bold;
     padding: 10px
 }
+.card-button:hover {
+    background-color: #fd7557;
+    transition: background-color 0.3s ease;
+    color: white;
+}
