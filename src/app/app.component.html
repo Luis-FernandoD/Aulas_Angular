@@ -4,12 +4,13 @@
   [planType]="cardPlanType" 
   [planPriceAlias]="cardPlanPrice">
 </app-card>
-<div class="d-flex">
+
+<br>
+</div>
+<div class="input-container">
   <input 
   #meuInput
   type="text"
   (keyup)="handlePlanType(meuInput.value)"
   placeholder="Digite o tipo de plano">
-</div>
-<br>
 </div>
